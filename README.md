@@ -1,2 +1,2 @@
 # dice-game
-dice game between two players. Whoever got high roll wins.
+dice game between two players. Whoever get high roll wins.
